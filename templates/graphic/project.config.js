@@ -5,19 +5,15 @@ module.exports = {
    */
   id: '<<id>>',
   /**
-   * Month that the project was created.
+   * Date that the project was created.
    */
-  createMonth: '<<month>>',
-  /**
-   * Year that the project was created.
-   */
-  createYear: '<<year>>',
+  createDate: '<<year>>-<<month>>',
   /**
    * What project type was passed in on creation.
    */
   projectType: 'graphic',
   /**
-   * What slug was passed in on creation.
+   * Slug of the project.
    */
   slug: '<<slug>>',
   /**
@@ -37,7 +33,7 @@ module.exports = {
    */
   files: [
     {
-      fileId: '1B_jhK1r75fMZVQev8BGU60dgjh1ffE0AxNDZz5dl-RQ',
+      fileId: '1p1ptvRmWtk0VDJz9ChgnPnwXND-IkzJdwu4x9eCHwKI',
       type: 'doc',
       name: 'text',
     },
